@@ -1,3 +1,4 @@
-name: Example
+name: Mysterieuze knop
 description: An example plugin. Use this as the base for your own glorious plugins!
 api: 2
+icon: question
